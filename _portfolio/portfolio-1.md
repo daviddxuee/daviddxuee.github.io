@@ -1,6 +1,6 @@
 ---
 title: "Music Store Data Analysis"
-excerpt: "SQL Queries using Postgresql analyzing raw data from a Music Store Sales Data <br/><img src='/images/500x300.png'>"
+excerpt: "SQL Queries using Postgresql analyzing raw data from a Music Store Sales Data <br/><img src='/images/anastasia-saldatava-7Ys0u4woGQs-unsplash_1024x1024.jpg'>"
 collection: portfolio
 ---
 
