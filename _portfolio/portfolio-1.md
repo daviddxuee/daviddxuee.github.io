@@ -1,5 +1,5 @@
 ---
-title: "Music Store Data Analysis"
+title: "1. Music Store Data Analysis Project"
 excerpt: "SQL Queries using Postgresql analyzing raw data from a Music Store Sales Data <br/><img src='/images/anastasia-saldatava-7Ys0u4woGQs-unsplash_1024x1024.jpg'>"
 collection: portfolio
 ---
