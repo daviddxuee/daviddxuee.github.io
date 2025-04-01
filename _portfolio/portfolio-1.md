@@ -4,4 +4,4 @@ excerpt: "SQL Queries using Postgresql analyzing raw data from a Music Store Sal
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this project I utilized Music Store Sales Data obtained online and created Query prompts ranging from easy to hard in difficulty. The queries were executed in Postgresql on my local machine and the SQL file can be found [here](https://github.com/daviddxuee/SQL_MUSIC_STORE). 
