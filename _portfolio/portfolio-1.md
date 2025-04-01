@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Music Store Data Analysis"
+excerpt: "SQL Queries using Postgresql analyzing raw data from a Music Store Sales Data <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
