@@ -8,10 +8,9 @@ redirect_from:
 
 I'm an alumni from Boston University where I majored in Business Management and Administration double concentrating in Management Information Systems and Finance! 
 
-
-
+Some of my projects that I have worked on so far: 
 ======
-
+Music Store 
 
 Getting started
 ======
